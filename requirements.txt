@@ -1,0 +1,19 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+yfinance
+pyyaml
+joblib
+xgboost
+lightgbm
+scipy
+# for logging config in YAML
+python-json-logger
+
+# If using Jupyter notebooks for research
+jupyter
+
+# For type hints (optional, for development)
+typing-extensions
